@@ -1,0 +1,14 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: ceter;
+  color-scheme: "red";
+  font-weight: bolder;
+}
+
+div {
+  background-color: olivedrab;
+}
+
+#root p1 {
+  background-color: red;
+}
